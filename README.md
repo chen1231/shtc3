@@ -1,5 +1,6 @@
 # shtc3
-for contorlling shtc3 by stm32
+For contorlling shtc3 by stm32.
+
 There are some basic cmd to control shtc3.
 
 You can get temperature and humidity by cmd in this file.
